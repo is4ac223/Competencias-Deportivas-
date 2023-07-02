@@ -1,0 +1,22 @@
+public enum EnumDeporteIndividual {
+    AJEDREZ,
+    ATLETISMO,
+    BOXEO,
+    CICLISMO,
+    ESGRIMA,
+    GIMNASIA,
+    GOLF,
+    JUDO,
+    KARATE,
+    LUCHA,
+    NATACION,
+    PENTATLON,
+    REMO,
+    TENIS,
+    TIRO,
+    TIRO_CON_ARCO,
+    TRIATLON,
+    VELA,
+    VOLIBOL_DE_PLAYA,
+    WUSHU
+}
